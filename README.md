@@ -1,5 +1,7 @@
 # Проектная работа: Мониторинг Узлов
 
+https://github.com/Eriky2005/Node-Monitoring - ссылка на проекте на Github
+
 Стек: React, Redux, SCSS
 
 Структура проекта:
